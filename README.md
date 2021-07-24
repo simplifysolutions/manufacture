@@ -6,6 +6,8 @@ Odoo Manufacturing Modules
  - Manual lot creation on Production Order
  - Cancel all MTO production orders on SO completion
 
+<strong>Note: </strong>This is a mirror of Simplify's public Gitlab repository
+
 Maintainer
 -----------
 
