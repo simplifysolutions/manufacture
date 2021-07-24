@@ -1,0 +1,3 @@
+# Manufacture
+
+Odoo Manufacturing Modules
