@@ -1,0 +1,2 @@
+# name    url    branch, e.g:
+# stock-logistics-warehouse https://github.com/OCA/stock-logistics-warehouse 12.0
